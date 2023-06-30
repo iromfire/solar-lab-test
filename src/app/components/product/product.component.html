@@ -1,0 +1,29 @@
+<div class="card mb-2 mt-2">
+  <div class="card-body">
+    <div class="row">
+      <div class="col">
+        <img
+          [src]="product.image"
+          alt="image"
+          class="img-fluid rounded border"
+          [routerLink]="['product', product.id]"
+          role="button"
+        />
+      </div>
+      <div class="col">
+        <h5
+          class="card-title fw-bold"
+          [routerLink]="['product', product.id]"
+          role="button"
+        >
+          {{ product.title }}
+        </h5>
+        <p class="card-text mb-2">{{ product.description }}</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="card-footer bg-transparent">
+    <p class="card-text fw-bold text-end">{{ product.price }} руб.</p>
+  </div>
+</div>

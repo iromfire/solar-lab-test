@@ -1,0 +1,14 @@
+<div class="container p-5">
+  <div class="row">
+    <div class="col">
+      <img [src]="product.image" alt="image" class="img-fluid w-75 border" />
+    </div>
+    <div class="col">
+      <h2 class="mb-3">{{ product.title }}</h2>
+      <p class="mb-2">Категория: {{ product.category }}</p>
+      <h5 class="mb-2">{{ product.description }}</h5>
+      <p class="mb-2">Рейтинг: {{ product.rating }}</p>
+      <p class="fw-bold">Цена: {{ product.price }}</p>
+    </div>
+  </div>
+</div>
