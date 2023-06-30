@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "title": "Кроссовки Adidas Superstar",
+    "price": 8999,
+    "description": "Кроссовки adidas Superstar впервые вышли на баскетбольные площадки в 1970 году и превратились в икону уличной моды.",
+    "category": "Кроссовки",
+    "rating": 4.5,
+    "image": "https://static.street-beat.ru/upload/resize_cache/iblock/518/500_500_1/518759bf562f04bd5f7aef0a8e1f0222.JPG"
+  },
+  {
+    "id": 2,
+    "title": "Кеды Vans Old Skool",
+    "price": 10999,
+    "description": "Любимая обувь скейтбордистов и серферов заслуживает отдельного стеллажа в гардеробе поклонников уличной культуры.",
+    "category": "Кеды",
+    "rating": 4.8,
+    "image": "https://static.street-beat.ru/upload/iblock/b6c/b6cd058822fb96a443fca3a94b49c513.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Кроссовки New Balance 574",
+    "price": 7999,
+    "description": "New Balance 574 — классические беговые кроссовки, разработанные в 80-х годах прошлого века.",
+    "category": "Кроссовки",
+    "rating": 4.3,
+    "image": "https://static.street-beat.ru/upload/resize_cache/iblock/ae1/500_500_1/ae1cfb3f213419bd5d1fc7c6caec9797.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Mizuno Spark CN1",
+    "price": 7499,
+    "description": "Возьмите в руки Mizuno Spark CN1 Marathon Running от лучших производителей кроссовок по всему миру.",
+    "category": "Кроссовки",
+    "rating": 4.6,
+    "image": "https://www.thenextsole.com/storage/images/D1GH221207.png"
+  },
+  {
+    "id": 5,
+    "title": "Кроссовки Adidas Forum Low",
+    "price": 6499,
+    "description": "Твои поступки и одежда говорят о тебе многое. Будь ярким в этих кроссовках Adidas Forum.",
+    "category": "Кроссовки",
+    "rating": 4.4,
+    "image": "https://static.street-beat.ru/upload/resize_cache/iblock/be0/500_500_1/be05ffde5044c69bef94348f492199b5.jpg"
+  }
+]
